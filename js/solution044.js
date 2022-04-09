@@ -30,4 +30,4 @@ function findDifference(a, b) {
 }
 
 console.log(findDifference([1,2,3],[1,3,4]))
-// fix
+// fixed code error
