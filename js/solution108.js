@@ -1,9 +1,9 @@
-// function maskify(cc) {
-//     cc = cc.split("");
-//     for(var i = 0; i < cc.length - 4; i++){
-//       cc[i] = "#";
-//   }
+function maskify(cc) {
+    cc = cc.split("");
+    for(var i = 0; i < cc.length - 4; i++){
+      cc[i] = "#";
+  }
   
-//   cc = cc.join("");
-//   return cc
-//   }
+  cc = cc.join("");
+  return cc
+  }
