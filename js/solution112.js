@@ -1,1 +1,1 @@
-// const number = busStops => busStops.reduce((p,n) => p+n[0]-n[1],0)
+const number = busStops => busStops.reduce((p,n) => p+n[0]-n[1],0)
