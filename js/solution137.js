@@ -1,3 +1,3 @@
-// function bonusTime(salary, bonus) {
-//     return '£' + salary * (bonus ? 10 : 1);
-//   }
+function bonusTime(salary, bonus) {
+    return '£' + salary * (bonus ? 10 : 1);
+  }
