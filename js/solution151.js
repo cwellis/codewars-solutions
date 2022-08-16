@@ -1,1 +1,1 @@
-// const orderedCount = str => [...new Set([...str])].map(char => [char, str.split(char).length - 1])
+const orderedCount = str => [...new Set([...str])].map(char => [char, str.split(char).length - 1])
