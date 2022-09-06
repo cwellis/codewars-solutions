@@ -1,3 +1,3 @@
-// function unscrambleEggs(word){
-//     return word.replace(/egg/g, "");
-//   }
+function unscrambleEggs(word){
+    return word.replace(/egg/g, "");
+  }
