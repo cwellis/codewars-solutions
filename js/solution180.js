@@ -1,1 +1,1 @@
-// const square = (n) => n * n;
+const square = (n) => n * n;
