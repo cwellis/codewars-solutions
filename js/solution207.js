@@ -1,1 +1,1 @@
-// const problem = x => typeof x === 'string' ? 'Error' : x * 50 + 6;
+const problem = x => typeof x === 'string' ? 'Error' : x * 50 + 6;
