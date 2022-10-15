@@ -1,3 +1,3 @@
-// function numOfOpenLockers(n) {
-//     return Math.floor(Math.sqrt(n));
-//   }
+function numOfOpenLockers(n) {
+    return Math.floor(Math.sqrt(n));
+  }
